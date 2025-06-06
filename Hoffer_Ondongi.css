@@ -1,0 +1,123 @@
+html {
+    height:100%;
+}
+
+body {
+    height : 100%;
+    margin : 0;
+
+
+    background-image:url( "../Image/photo-1619976782602-2607e191b07f.jpeg"); /* aliceblue; */
+    background-size:cover;
+    background-position: center;
+}
+
+#titre {
+     color: #b06d00;
+    height : 10%;
+}
+
+
+#menu {
+    color:red;
+    background-color: 	#689D71;
+    float : left;
+    width : 200px;
+    height : 110%;
+}
+
+#contenu {
+    backdrop-filter: blur(7px);
+   color: #b06d00;
+    margin-left: 200px;
+    height: 100%;
+    overflow: scroll;
+    margin-top: 10%;
+}
+
+#auteurs {
+
+color: red;
+  height : 10%;
+  width : 100%;
+  }
+  p#basdepage{
+  vertical-align:50% ;
+  }
+div#logo{
+color:white;
+width: 50%;
+
+
+}
+h4{
+text-align:right;
+}
+ul{
+color:brown;
+
+}
+a{
+color:white;
+}
+a.menu1{
+ color:red;
+ font-family:cursive;
+ font-weight:bold;
+}
+a.menu2{
+ color:grey;
+ font-family:cursive;
+ font-weight:bold;
+
+}
+div#Menu{
+color:red;
+
+}
+div#titre{
+color:grey;
+font-weight:bold;
+}
+ul li {
+list-style-type:lower-greek;
+
+}
+
+
+
+
+sub{
+color:#ad0371;
+font-style: italic;
+font-size: 200%;
+}
+td{
+text-align:center;
+}
+h1+p>img{
+width: 25%;
+height: 25%;
+}
+table {
+
+border: thin solid white;
+border-collapse: collapse;
+}
+ul li a:hover{
+background:#fff;
+color:#000;
+}
+div#auteurs{
+color:red;
+background:none;
+
+}
+img.img1{
+  float : right;
+
+}
+
+img.img3{
+  float : right ;
+}
